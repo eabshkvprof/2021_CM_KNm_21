@@ -10,9 +10,10 @@
 ## **ІНДІВІДУАЛЬНЕ ЗАВДАННЯ та ГРАФІК** виконання курсового проекту,  склад та вимоги до офрмлення пояснювальної записки наведени в [**ТЕХНІЧНОМУ ЗАВДАННІ**](/03_CURS_WORK/2021_CM_Curs_Work_TZ_.pdf)
 
 ## **РЕКОМЕНДАЦІЇ ЩОДО ВИКОНАННЯ КУРСОВОГО ПРОЕКТУ**
->### [**STEP 01**](/03_CURS_WORK/2021_CM_Curs_Work_Step_01_.pdf) **Загальне завдання. Data Sets**  
->### [**STEP 02**](/03_CURS_WORK/2021_CM_Curs_Work_Step_02_.pdf) **Run**
->### [**STEP 03**](/03_CURS_WORK/2021_CM_Curs_Work_Step_03_.pdf) **Back Propagation**
+>## [**STEP 01**](/03_CURS_WORK/2021_CM_Curs_Work_Step_01.pdf) ***Загальне завдання.***  
+>## [**STEP 02**](/03_CURS_WORK/2021_CM_Curs_Work_Step_02.pdf) ***Data Sets***  
+>## [**STEP 03**](/03_CURS_WORK/2021_CM_Curs_Work_Step_03.pdf) ***Run***
+>## [**STEP 04**](/03_CURS_WORK/2021_CM_Curs_Work_Step_04.pdf) ***Back Propagation***
 ## **ПРИМЕРЫ разные (на питоне)**
 >### [**Формирование массивовов**](/03_CURS_WORK/PY/_NN_Curs_Input_Vector_Forming_text.py)  
 >### [**Пример для RAN**](/03_CURS_WORK/PY/_NN_Curs_RUN_Example_text.py)  
