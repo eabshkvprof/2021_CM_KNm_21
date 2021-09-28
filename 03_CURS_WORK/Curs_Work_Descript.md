@@ -14,6 +14,7 @@
 >## [**STEP 02**](/03_CURS_WORK/2021_CM_Curs_Work_Step_02.pdf) ***Data Sets***  
 >## [**STEP 03**](/03_CURS_WORK/2021_CM_Curs_Work_Step_03.pdf) ***Run***
 >## [**STEP 04**](/03_CURS_WORK/2021_CM_Curs_Work_Step_04.pdf) ***Back Propagation***
-## **ПРИМЕРЫ разные (на питоне)**
->### [**Формирование массивовов**](/03_CURS_WORK/PY/_NN_Curs_Input_Vector_Forming_text.py)  
+## **ПРИКЛАДИ різі (Python)**
+>### [**Формирование ветора символа**](/03_CURS_WORK/PY/01_NN_Curs_Symbols_Vector.py)  
+>### [**Формирование массивовов**](/03_CURS_WORK/PY/_NN_Curs_Input_Vector_Forming.py)  
 >### [**Пример для RAN**](/03_CURS_WORK/PY/_NN_Curs_RUN_Example_text.py)  

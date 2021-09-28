@@ -1,5 +1,5 @@
 """
-ФОРМИРВОАНИЕ ВХОДНЫХ ВЕКТОРОВ ДЛЯ НЕЙРОСЕТИ
+ФОРМИРОВАНИЕ ВХОДНЫХ ВЕКТОРОВ ДЛЯ НЕЙРОСЕТИ
 Берем список созданных векторов по описанию символа
 Считываем вектор
 и форимруем матрицу
@@ -11,7 +11,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import skimage.io as io
-
 
 xTtrain_file_name_list = [
         '01_Alfa_01_.png.npy',
