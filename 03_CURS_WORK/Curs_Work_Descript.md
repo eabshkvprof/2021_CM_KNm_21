@@ -15,6 +15,6 @@
 >## [**STEP 03**](/03_CURS_WORK/2021_CM_Curs_Work_Step_03.pdf) ***Run***
 >## [**STEP 04**](/03_CURS_WORK/2021_CM_Curs_Work_Step_04.pdf) ***Back Propagation***
 ## **ПРИКЛАДИ різі (Python)**
->### [**Формирование ветора символа**](/03_CURS_WORK/PY/01_NN_Curs_Symbols_Vector.py)  
->### [**Формирование массивовов**](/03_CURS_WORK/PY/_NN_Curs_Input_Vector_Forming.py)  
+>### [**Формирование вектора символа**](/03_CURS_WORK/PY/01_NN_Curs_Symbols_Vector.py)  
+>### [**Формирование массивовов**](/03_CURS_WORK/PY/02_NN_Curs_Input_Vector_Forming.py)  
 >### [**Пример для RAN**](/03_CURS_WORK/PY/_NN_Curs_RUN_Example_text.py)  
