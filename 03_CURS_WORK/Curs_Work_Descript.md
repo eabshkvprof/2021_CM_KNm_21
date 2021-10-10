@@ -17,4 +17,4 @@
 ## **ПРИКЛАДИ різі (Python)**
 >### [**Формирование вектора символа**](/03_CURS_WORK/PY/01_NN_Curs_Symbols_Vector.py)  
 >### [**Формирование массивовов**](/03_CURS_WORK/PY/02_NN_Curs_Input_Vector_Forming.py)  
->### [**Пример для RAN**](/03_CURS_WORK/PY/_NN_Curs_RUN_Example.py)  
+>### [**Пример для RAN**](/03_CURS_WORK/PY/03_NN_Curs_RUN_Example.py)  
